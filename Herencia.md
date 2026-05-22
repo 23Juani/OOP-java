@@ -1,0 +1,3 @@
+La herencia permite que una clase nueva (clase hija o subclase) adquiera los atributos y métodos de una clase existente (clase padre o superclase).
+- **Ventaja principal:** Evita la duplicación de código y facilita la creación de jerarquías y la reutilización.
+- _Uso práctico:_ Si tienes una clase `Vehículo`, puedes crear clases hijas como `Auto` y `Moto` que heredan las características básicas de `Vehículo`, pero agregan sus propios rasgos únicos.
