@@ -1,6 +1,6 @@
 # PROGRAMACIÓN ORIENTADA A OBJETOS (POO) EN JAVA
 **Introducción** 
-La Programación Orientada a Objetos (POO) es un [Paradigma](https://github.com/23Juani/OOP-java/blob/main/Paradigma.md) de programación que organiza el software en objetos que contienen [[Atributos y métodos]]. Este enfoque permite desarrollar sistemas más reutilizables, escalables y fáciles de mantener.
+La Programación Orientada a Objetos (POO) es un [Paradigma](https://github.com/23Juani/OOP-java/blob/main/Paradigma.md) de programación que organiza el software en objetos que contienen [Atributos y métodos](https://github.com/23Juani/OOP-java/blob/main/Atributos%20y%20m%C3%A9todos.md). Este enfoque permite desarrollar sistemas más reutilizables, escalables y fáciles de mantener.
 
 Java es uno de los lenguajes más utilizados para aplicar la POO debido a que está diseñado completamente bajo este paradigma. 
 ## 1. PROGRAMACIÓN ORIENTADA A OBJETOS
@@ -8,10 +8,10 @@ Java es uno de los lenguajes más utilizados para aplicar la POO debido a que es
 #### Conceptos fundamentales de la POO
 
 La POO se basa en cuatro pilares principales:
-- **[[Encapsulamiento]]**
-- **[[Herencia]]**
-- **[[Polimorfismo]]**
-- **[[Abstracción]]**
+- **[Encapsulamiento](https://github.com/23Juani/OOP-java/blob/main/Encapsulamiento.md)**
+- **[Herencia](https://github.com/23Juani/OOP-java/blob/main/Herencia.md)**
+- **[Polimorfismo](https://github.com/23Juani/OOP-java/blob/main/Polimorfismo.md)**
+- **[Abstracción](https://github.com/23Juani/OOP-java/blob/main/Abstracci%C3%B3n.md)**
 
 #### Clase
 Una clase es una plantilla o molde para crear objetos.
