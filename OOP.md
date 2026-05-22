@@ -1,6 +1,6 @@
 # PROGRAMACIÓN ORIENTADA A OBJETOS (POO) EN JAVA
 **Introducción** 
-La Programación Orientada a Objetos (POO) es un [[Paradigma]] de programación que organiza el software en objetos que contienen [[Atributos y métodos]]. Este enfoque permite desarrollar sistemas más reutilizables, escalables y fáciles de mantener.
+La Programación Orientada a Objetos (POO) es un [Paradigma](https://github.com/23Juani/OOP-java/blob/main/Paradigma.md) de programación que organiza el software en objetos que contienen [[Atributos y métodos]]. Este enfoque permite desarrollar sistemas más reutilizables, escalables y fáciles de mantener.
 
 Java es uno de los lenguajes más utilizados para aplicar la POO debido a que está diseñado completamente bajo este paradigma. 
 ## 1. PROGRAMACIÓN ORIENTADA A OBJETOS
